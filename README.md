@@ -1,6 +1,6 @@
-# Abhinav81-code-Video-games-sales-prediction
+# 🎮Video-games-sales-prediction
 
-🎮 Video Game Sales Analysis
+ 
 📌 Overview
 This project analyzes video game sales data to uncover trends, patterns, and insights across various platforms, genres, and regions. The dataset originates from Kaggle and includes global sales data for thousands of video game titles.
 
